@@ -2,7 +2,7 @@
   "name": "brython",
   "version": "3.7.2",
   "description": "Python 3 in the browser",
-  "main": "brython.js",
+  "main": "brython_dist.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
